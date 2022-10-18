@@ -1,5 +1,12 @@
 body {
 background-color: #0099FF;
-color: #70003D;
+color: #000000;
 font-family: times-new-roman;
 }
+
+h3 {
+color: #FFFFFF;
+font-family: arial, helvetica, sans-serif;
+}
+
+span.dog { color: white; }
